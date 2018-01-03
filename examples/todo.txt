@@ -1,0 +1,3 @@
+* add supervisor
+* conferences attended?
+
